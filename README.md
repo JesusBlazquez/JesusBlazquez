@@ -5,6 +5,7 @@
 *Building software, creating experiences and never stopping learning.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/jesús-blázquez-durán-064910224)
+[![Email](https://img.shields.io/badge/Email-jesuspesquina@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesuspesquina@gmail.com)
 -----------------------------------------------------------------------
 
 # 🇪🇸 Sobre mí
@@ -83,9 +84,13 @@ Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo
 Experimental game project where I explore mechanics, design patterns and
 gameplay programming. This game explores the idea of light and sounds as tools for stealth and distractions. 
 
+### THIS GAME IS CURRENTLY IN DEVELPMENT, FOR MORE INFO PLEASE CONTACT ME AT MY EMAIL ADRESS
+
 ## 🎮 Missing the Plot
 
 Turn-based RPG project focused on D&D mechanics and set in a simple scenario where two friends meet in a room to play D&D during the summer. This is my first proyect as a game developer and its is now currently on development. 
+
+### THIS GAME IS CURRENTLY IN DEVELPMENT, FOR MORE INFO PLEASE CONTACT ME AT MY EMAIL ADRESS
 
 ------------------------------------------------------------------------
 
