@@ -84,13 +84,13 @@ Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo
 Experimental game project where I explore mechanics, design patterns and
 gameplay programming. This game explores the idea of light and sounds as tools for stealth and distractions. 
 
-### THIS GAME IS CURRENTLY IN DEVELPMENT, FOR MORE INFO PLEASE CONTACT ME AT MY EMAIL ADRESS
+### 🚧 This project is currently under development. If you would like more information, please feel free to contact me by email.
 
 ## 🎮 Missing the Plot
 
 Turn-based RPG project focused on D&D mechanics and set in a simple scenario where two friends meet in a room to play D&D during the summer. This is my first proyect as a game developer and its is now currently on development. 
 
-### THIS GAME IS CURRENTLY IN DEVELPMENT, FOR MORE INFO PLEASE CONTACT ME AT MY EMAIL ADRESS
+### 🚧 This project is currently under development. If you would like more information, please feel free to contact me by email.
 
 ------------------------------------------------------------------------
 
