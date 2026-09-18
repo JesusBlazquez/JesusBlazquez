@@ -1,64 +1,66 @@
 # 👋 Hi, I'm Jesús Blázquez Durán
 
-### **Software Developer**
+### **Backend Java Developer** · Spring Boot · Microservices · Hexagonal Architecture & DDD
 
 *Building software, creating experiences and never stopping learning.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/jesús-blázquez-durán-064910224)
 [![Email](https://img.shields.io/badge/Email-jesuspesquina@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesuspesquina@gmail.com)
------------------------------------------------------------------------
+![Open to work](https://img.shields.io/badge/Open_to_work-Madrid_·_Remote-2ea44f?style=for-the-badge)
+
+------------------------------------------------------------------------
+
+# 🇬🇧 About me
+
+I'm a **backend Java developer** from Spain. During my internship at **ViewNext (IBM group)** I worked on
+financial-sector microservices built with **hexagonal architecture and DDD**: REST APIs documented with
+OpenAPI, JPA/Hibernate, Apache Kafka, Docker and Jenkins, inside a Scrum team.
+
+This profile is where I publish **complete, runnable projects**: each one has tests, CI, a one-command
+start-up and a README explaining the technical decisions behind it.
+
+- 🎓 Higher Technician in Web Application Development (DAW)
+- 🌍 Spanish (native) · English (C1)
+- 📍 Cáceres, Spain · open to relocating to **Madrid** or working **remotely**
 
 # 🇪🇸 Sobre mí
 
-Soy un **Desarrollador de software** de España con interés en el desarrollo
-**Full Stack**, especialmente en el ecosistema Java.
-
-Me gusta construir software limpio, aprender nuevas tecnologías y
-documentar mi evolución mediante proyectos reales. Mi GitHub refleja
-tanto mi crecimiento como desarrollador como mi interés por el
-desarrollo de videojuegos.
-
-## 🌱 Siempre aprendiendo
-
--   💻 Desarrollo de Software
--   🎮 Desarrollo de Videojuegos
--   🔐 Ciberseguridad
+**Desarrollador backend Java** con experiencia en microservicios del sector financiero en **ViewNext (grupo IBM)**
+con arquitectura hexagonal y DDD. Aquí publico proyectos completos y desplegables, con tests, CI y
+decisiones técnicas documentadas. Busco mi primer empleo como desarrollador en Madrid o en remoto.
 
 ------------------------------------------------------------------------
 
-# 🇬🇧 About Me
+## 🚀 Featured projects
 
-I'm a **Software Developer** from Spain focused on Full Stack
-development with a strong interest in the Java ecosystem.
+| Project | What it shows | Status |
+|---|---|---|
+| **bank-ledger-hexagonal** | Accounts and transfers with real domain rules · hexagonal architecture · DDD | 🚧 In progress |
+| **bank-ledger-k8s** | The ledger containerised · CI/CD with GitHub Actions · deployed to Kubernetes | 🔜 Planned |
+| **insurance-claims-a11y** | Full-stack Spring Boot + Angular · WCAG accessibility audit | 🔜 Planned |
+| **kafka-saga-microservices** | Event-driven microservices · choreographed Saga with Kafka | 🔜 Planned |
 
-I enjoy building maintainable software, learning new technologies and
-sharing my progress through personal projects. My GitHub reflects my knowledge as a developer as well as my interest in videogame development.
-
-## 🌱 Always learning
-
--   💻 Software development
--   🎮 Videogames development
--   🔐 Cibersecurity
+<!-- Update as each project is published: link the repo name and change the status to ✅ -->
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring
-Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![Apache
-Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ### Frontend
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases
 
@@ -66,37 +68,32 @@ Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-### Tools
+### DevOps & tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Architecture:** hexagonal (ports & adapters) · DDD · microservices · event-driven · SOLID
+**Practices:** TDD · CI/CD · Scrum · AI-assisted development with Claude Code
 
 ------------------------------------------------------------------------
 
-# 🚀 Featured Projects
+## 🎮 Side projects
 
-## 🎮 PROYECT-T
+Game development is what got me into programming, and I still build games in my free time with Godot and Unity.
 
-Experimental game project where I explore mechanics, design patterns and
-gameplay programming. This game explores the idea of light and sounds as tools for stealth and distractions. 
-
-### 🚧 This project is currently under development. If you would like more information, please feel free to contact me by email.
-
-## 🎮 Missing the Plot
-
-Turn-based RPG project focused on D&D mechanics and set in a simple scenario where two friends meet in a room to play D&D during the summer. This is my first proyect as a game developer and its is now currently on development. 
-
-### 🚧 This project is currently under development. If you would like more information, please feel free to contact me by email.
+- **PROYECT-T**: experimental stealth game that uses light and sound as tools for hiding and distraction. *In development.*
+- **Missing the Plot**: turn-based RPG built on D&D mechanics, set in a room where two friends meet to play during the summer. *In development.*
 
 ------------------------------------------------------------------------
 
-# 🤝 Contact
+## 🌱 Always learning
 
--   💼 LinkedIn:
-    http://www.linkedin.com/in/jesús-blázquez-durán-064910224
+💻 Software architecture · 🔐 Cybersecurity · 🎮 Game development
 
 Thanks for visiting my profile!
