@@ -35,7 +35,7 @@ decisiones técnicas documentadas. Busco mi primer empleo como desarrollador en 
 
 | Project | What it shows | Status |
 |---|---|---|
-| **bank-ledger-hexagonal** | Accounts and transfers with real domain rules · hexagonal architecture · DDD | ✅ DONE |
+| **[bank-ledger-hexagonal](https://github.com/JesusBlazquez/bank-ledger-hexagonal)** | Accounts and transfers with real domain rules · hexagonal architecture · DDD | ✅ DONE |
 | **bank-ledger-k8s** | The ledger containerised · CI/CD with GitHub Actions · deployed to Kubernetes | 🔜 Planned |
 | **insurance-claims-a11y** | Full-stack Spring Boot + Angular · WCAG accessibility audit | 🔜 Planned |
 | **kafka-saga-microservices** | Event-driven microservices · choreographed Saga with Kafka | 🔜 Planned |
