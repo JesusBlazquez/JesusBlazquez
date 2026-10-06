@@ -37,6 +37,7 @@ decisiones técnicas documentadas. Busco mi primer empleo como desarrollador en 
 |---|---|---|
 | **[bank-ledger-hexagonal](https://github.com/JesusBlazquez/bank-ledger-hexagonal)** | Accounts and transfers with real domain rules · hexagonal architecture · DDD · 77 tests | ✅ DONE |
 | **[bank-ledger-k8s](https://github.com/JesusBlazquez/bank-ledger-k8s)** | The ledger containerised · Kubernetes with Kustomize · CI/CD that deploys to a real cluster · [signed image on GHCR](https://github.com/JesusBlazquez/bank-ledger-k8s/pkgs/container/bank-ledger-k8s) | ✅ DONE |
+| **[java25-inventory-cli](https://github.com/JesusBlazquez/java25-inventory-cli)** | Warehouse CLI in Java 25 · sealed types, record patterns · [zero runtime dependencies](https://github.com/JesusBlazquez/java25-inventory-cli/releases/latest) | ✅ DONE |
 | **insurance-claims-a11y** | Full-stack Spring Boot + Angular · WCAG accessibility audit | 🔜 Planned |
 | **kafka-saga-microservices** | Event-driven microservices · choreographed Saga with Kafka | 🔜 Planned |
 
